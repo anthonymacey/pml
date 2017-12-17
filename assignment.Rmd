@@ -3,9 +3,10 @@ title: 'Peer-graded Assignment: Prediction Assignment Writeup'
 author: "Anthony Macey"
 date: "11 December 2017"
 output:
-  pdf_document: default
   html_document:
-    df_print: paged
+     self_contained: false
+     df_print: paged
+  pdf_document: default
 ---
 
 # 1 Executive Summary
